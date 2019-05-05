@@ -1,0 +1,26 @@
+{
+  "name": "gp_keras",
+  "version": "0.0.1",
+  "description": "use RNN and LSTM generate poetry by Keras (The application layer)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Styx11/GP_Keras.git"
+  },
+  "keywords": [
+    "keras",
+    "vue"
+  ],
+  "author": "Styx11 <https://github.com/Styx11>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Styx11/GP_Keras/issues"
+  },
+  "homepage": "https://github.com/Styx11/GP_Keras#readme"
+}
