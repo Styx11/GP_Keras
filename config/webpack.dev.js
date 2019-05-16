@@ -17,6 +17,8 @@ module.exports = merge(common, {
           '^/poetry': '/poetry'
         }
       }
-    }
+    },
+    host: 'localhost',
+    port: 8000,
   }
 });
