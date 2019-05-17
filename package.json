@@ -41,5 +41,12 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.4",
+    "iconv-lite": "^0.4.24",
+    "is-chinese": "^1.2.9",
+    "vue": "^2.6.10"
+  }
 }
