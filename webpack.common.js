@@ -28,7 +28,19 @@ module.exports = {
           'style-loader',
           'css-loader',
         ]
-      }
+      },
+      {
+        test: /\.(woff|woff2|eot|ttf|ttc|otf)$/,
+        use: [
+          'file-loader'
+        ]
+      },
+      {
+        test: /\.svg$/,
+        use: [
+          'svg-inline-loader'
+        ]
+      },
     ]
   }
 };
