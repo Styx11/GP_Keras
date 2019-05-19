@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="arrowupcircle1187583easyiconnet" unicode="&#58938;" d="M721.12 366.72C708.64 354.24 688.384 354.24 675.872 366.72L544 498.88 544 160C544 142.4 529.696 128 512 128 494.304 128 480 142.4 480 160L480 498.88 348.128 366.72C335.616 354.24 315.328 354.24 302.88 366.72 290.368 379.52 290.368 399.68 302.88 412.16L483.872 593.28C491.552 600.96 502.048 603.2 512 601.28 521.952 603.2 532.448 600.96 540.128 593.28L721.12 412.16C733.632 399.68 733.632 379.52 721.12 366.72L721.12 366.72ZM512 896C229.216 896 0 666.88 0 384 0 101.12 229.216-128 512-128 794.784-128 1024 101.12 1024 384 1024 666.88 794.784 896 512 896L512 896Z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
