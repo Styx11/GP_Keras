@@ -1,10 +1,10 @@
 @font-face {font-family: "iconfont";
-  src: url('./iconfonts/iconfont.eot?t=1558356381210'); /* IE9 */
-  src: url('./iconfonts/iconfont.eot?t=1558356381210#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAMoAAsAAAAABzAAAALbAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCAIFwATYCJAMMCwgABCAFhG0HUBtQBhFVlA9kPw7TLcZtw+JNlSMV+w6eaD/zze7kd48IVJExyaky+QMbVSDNoJD1rzs8q6ajqRh1QqVQ2nhi6T5lP+n3c3+08TiNUgiJkPzP4dKm+PxAucw9qBdgvDXQsQZFViAn6DeMXeASTkOAaPKpRQYOHjkRh2JNEkBWLlsyD5ezoygLOQSvZqUiRwjgzF5zGzgc/l6+0iwODAGLNXPs4kEL6fuh8UN3G/SDzPQRMObTAmwdWKAWUJDZtfqp2NhfiyVa46qeCx6KYOZy+T6EdJ3r2f/wwCAgHlZyLACVKGDgQ6NLTwXdIfOuCywAHq/RPwxYOcPOYLA5cbGxURtO7EufbILt+zrFTjzhe0IZU06n2TtNOhlMnf343cQn7yc9+zjl6YfJOx4/ziCeIJ5pn8480zUrW8537e/ImtydGs4Mtt9ffTbrbFvbhPik3KT4CZSSy2zJOhuJXPrz55JPrc64n/hCCwv1hS0tLPQq00wKbU1Ef/1SyIlQKmTjvL172VJKnqKo6onJS9lrUgiA/8R22Zof/jf86brPnpPQ87+LUQBeuFsXwxV+ULFBwGGgN+P3MnrWqc6yFFZVuks3jZbKW9UagFRuwscyJ/N2vDjtFYKCIy0FQzfywOIoRSq2FgLE0AoeDkMfiKaGeH0MKQhjRKOAat4AhEQ+YIjnOlgS+SIV+4MA6fzBI1HGEM1kSdkxhnKpvAGCRJFT+qIq4944KvWi1COKW5tIlhXirhBXuSjyw2IoRg+ZY467F1NVQ0a4ox04D23LZIVrZOqXqnYbBKbuQ37G3cBjAAJIUEAOkfKCqMhgeozfXPFK3z8CCm60JEhLTY38ChAc1eBEhE/YAxnz+1419/KO407BFEUxEAaB6SB2YBhoaWEIWz+sBmQoPuUIr2VLYDcyffn++sLu+7YA0ViPWzFiRSmYJ8KPm80qyVpE0Xq1WM+QuNdreHvoZNmbyAYDAA==') format('woff2'),
-  url('./iconfonts/iconfont.woff?t=1558356381210') format('woff'),
-  url('./iconfonts/iconfont.ttf?t=1558356381210') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
-  url('./iconfonts/iconfont.svg?t=1558356381210#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('./iconfonts/iconfont.eot?t=1558532736286'); /* IE9 */
+  src: url('./iconfonts/iconfont.eot?t=1558532736286#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAASsAAsAAAAACPgAAARgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDKgqEfIQcATYCJAMUCwwABCAFhG0HaRvBByMRdnMwEpH9JeRkQw+JqtFnasduAXXIFngUNjPo9ZCNP/ceWGi4SHCrmOYpAPKALyACEgAAAAAgePrfr92Zee/vW9O0SyLBT+DJPZpXumgmRU7XkDjdI42QPw/1++3PvruIJRKtacp4IuONFhli90z88wfltOlMJRl5QvAHXf42MM/pBEoEo0IGlcJLhFPy5K2Nx6/IeEYRLx1XmHD4PM959nxeD9SZ//P91pLQ9flG1R2hLTliNTf3s8uZZnJkXI3vwTHTpTVYHtBcIpOiEgc4HtCAIuOL7B/kAfHdX2U4CTcrE/cfhoCMNjGZTs6v0+TQKAGyOT3epenScjFkERRRyMIcxIwXqmt1AB70n5cvXYGF8gUdtTybOGD40Oen9n9lo/RclWcGrsvAQAwcZBVqPVDMQMxk3rFpAARhVpQVsOb/E8bC7wsn9l9eBjjCKKSOpDlgh4MOf3qZa8ssUCOQWaHGIPMjiIJ5skMGSU8gPYRrshiFqI9reOiI3dagf2kURMB1rgN/plY2hqjGYoUBemc4vLDcVxaOK/ardVQ2vxDi0ZIZsL3Ogsi1zmZDUdWaHRPT+wsHAUmoGt4MDtc6LDZCNYrV5/o1dPMWvvuI3r5Hkq6vHYgbxJ35NlWfNIcbNA0VDXDh5Gz9b0vvT0r3l2Jw+wg3eOKnt5G7lzBoO9IF16ggoOAJQ441m60rTj19LiRtuXAxzF1JQG0v67R6bXW1RMxV3LlXIHgh7G7ILViMBcNmu0LOrmtqryYI4y8+wXtZRTcZGkOmagofY3qmM9h6UTE34pZZ/9kDLi7s5JTxbCKVJjRsEM+1+ewj9+xmkwn6uoE3ZGW5wCVkoncxWK5sFa6G6enFv79FlR2cdU59ICUp6YNQSwWVajt7S4rMnvTnI4Vo+sKG8FRQ4AjGicaBWx4jHWKOF40T7xFPmKrwCTBkIWr5A/RfobNnLqG7gnYQk11qix7hP0aUFbP1lzatQ6enh+BDTov/w4X+rhB2HfuW7uvbTdLIgd3bitsfbgBJM7Flx6hPhoohVMt66f0xfofzi+T4UoK/gBLAByHqCvx0MvYuLzXvb1CRVST/NG8C0vl8VcmyY54SvEGGVSnOCCck3FnxW468njoVRFC3QaW0wATtSIeNwcvqgUgwBBmdppZnVZ0pJFugwz0DUfIIquANTMk70mF/wGv4h0gpYMi47z3ONzx1GdnJlcIZ5jTbUOalZslgJ0b6M5JF6dQp0Cnv0Ji5qdNse8N3qKFlTInLpGvGxCoV3bLjUJZCQSWHt2ZqFqatFod9UdNLtXXiigLHwByZ2SAZT9RYbW5OfN//DBILJUdj6r6Z34GKsvZJR1M7BfJOWqeq25ZnoqVElzGMMCUq5JaZoRQBQUJ4vxx4pinN4QumWrwRp5U265dXy7gFyKBrfVRRIqMWdYdb+I0vceFUZbUIPlNXr05nPBqMe3BxMzO+GraXzU+Xs5g6RSP+LjTN1hY=') format('woff2'),
+  url('./iconfonts/iconfont.woff?t=1558532736286') format('woff'),
+  url('./iconfonts/iconfont.ttf?t=1558532736286') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfonts/iconfont.svg?t=1558532736286#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 .iconfont {
@@ -15,11 +15,19 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-recycle:before {
+  content: "\e62f";
+}
+
 .icon-arrowupcircle1187583easyiconnet:before {
   content: "\e63a";
 }
 
 .icon-info:before {
   content: "\e630";
+}
+
+.icon-share-square:before {
+  content: "\e62a";
 }
 
