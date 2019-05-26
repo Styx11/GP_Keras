@@ -18,9 +18,90 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: rgb(212, 54, 69);
+  background-color: rgb(210, 58, 78);
+  background-image: url('https://s2.ax1x.com/2019/05/23/VPUk1P.png');
+  background-repeat:no-repeat; 
+  background-size:100% 100%;
+  -moz-background-size:100% 100%;
   border-radius: .3rem;
   box-shadow: .25rem .25rem .8rem #989898;
+}
+
+
+input::-webkit-input-placeholder {
+  color: rgb(204, 204, 204);
+}
+input:-moz-placeholder {
+  color: rgb(204, 204, 204);
+}
+input::-moz-placeholder {
+  color: rgb(204, 204, 204);
+}
+input:-ms-input-placeholder {
+  color: rgb(204, 204, 204);
+}
+
+input[class*="input-error"]::-webkit-input-placeholder {
+  color: rgba(220, 68, 83, 0.824);
+}
+input[class*="input-error"]:-moz-placeholder {
+  color: rgba(220, 68, 83, 0.824);
+}
+input[class*="input-error"]::-moz-placeholder {
+  color: rgba(220, 68, 83, 0.824);
+}
+input[class*="input-error"]:-ms-input-placeholder {
+  color: rgba(220, 68, 83, 0.824);
+}
+
+.input-blocks {
+  position: relative;
+}
+
+.input-blk {
+  position: relative;
+}
+
+.input {
+  display: block;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+  width: 16rem;
+  height: 2rem;
+  margin: .5rem auto;
+  line-height: 2rem;
+  font-size: .8rem;
+  outline: 0;
+  border-width: 0px;
+  border-radius: .2rem;
+  box-shadow: .5rem;
+}
+
+.info {
+  position: absolute;
+  top: .5rem;
+  right: 5rem;
+  color: rgba(220, 68, 83, 0.933);
+}
+
+.arrow-up {
+  display: inline-block;
+  width: 2.4rem;
+  height: 2.4rem;
+  line-height: 2.4rem;
+  margin: 1.6rem;
+  cursor: pointer;
+  border-radius: 50%;
+  color: rgb(239, 145, 68);
+  background-color: white;
+  font-size: 2.6rem !important;
+  -webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 }
 
 .loading {
