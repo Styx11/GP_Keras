@@ -11,7 +11,7 @@ module.exports = merge(common, {
     contentBase: './dist',
     proxy: {
       '/poetry': {
-        target: 'http://localhost:4040',
+        target: 'http://localhost:4000',
         changeOrigin: true,
         pathRewrite: {
           '^/poetry': '/poetry'
