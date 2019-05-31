@@ -42,5 +42,10 @@ module.exports = {
         ]
       },
     ]
+  },
+  resolve: {
+    alias: {
+      Share: path.resolve(__dirname, 'lib/sharejs')
+    }
   }
 };
