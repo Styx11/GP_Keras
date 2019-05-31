@@ -30,7 +30,7 @@ export default Vue.extend({
       <div class='input-blk'>
         <input
           :value='num'
-          @input='inputNum'
+          @change='inputNum'
           class='input input-num'
           :class="{'input-error': numError}"
           placeholder='请输入言律（仅限五、七言）'/>
