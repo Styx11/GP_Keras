@@ -27,6 +27,67 @@ body {
   box-shadow: .25rem .25rem .8rem #989898;
 }
 
+.share {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.share-bg {
+  z-index: 90;
+  position: absolute;
+  overflow: hidden;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: .3rem;
+  background-color: rgba(0, 0, 0, 0.837);
+}
+
+.share-img {
+  z-index: 99;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 30rem;
+}
+
+.share-btns {
+  z-index: 99;
+  position: relative;
+  top: 80%;
+  width: 75%;
+  height: 3rem;
+  line-height: 3rem;
+  margin: 0 auto;
+}
+
+.share-download {
+  font-size: 18px !important;
+  color: white !important;
+  border-color: rgb(210, 58, 78) !important;
+  background-color: rgb(210, 58, 78) !important;
+  cursor: pointer;
+}
+
+.social-share-icon:hover {
+  transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+  transform: translateY(-7px);
+  -moz-transform: translateY(-7px);
+  -webkit-transform: translateY(-7px);
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
 
 input::-webkit-input-placeholder {
   color: rgb(204, 204, 204);
