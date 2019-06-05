@@ -27,6 +27,114 @@ body {
   box-shadow: .25rem .25rem .8rem #989898;
 }
 
+.logo {
+  position: relative;
+  margin: 0 auto;
+  margin-bottom: 4.8rem;
+  z-index: 99;
+  width: 8rem;
+  height: 15rem;
+  box-shadow: .1rem .1rem .3rem #4645454f;
+}
+
+.result-blocks {
+  position: relative;
+  -webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+  user-select: none;
+  height: 100%;
+  width: 100%;
+}
+
+.result-main {
+  position: absolute;
+  top: 2.4rem;
+  left: 0;
+  width: 100%;
+}
+
+.result-bg {
+  width: 20.4rem;
+  height: 30rem;
+  box-shadow: 0rem .1rem .3rem #4645454f;
+}
+
+.result-title {
+  color: white;
+  font-size: .9rem;
+  font-weight: 400;
+  position: absolute;
+  top: 3.2rem;
+  left: 10.2rem;
+}
+
+.result {
+  z-index: 90;
+  position: absolute;
+  top: 8rem;
+  left: 8.4rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+
+.result-no-key {
+  color: rgba(255, 255, 255, 0.378);
+}
+
+.result-btns {
+  position: absolute;
+  width: 16rem;
+  height: 4rem;
+  line-height: 4rem;
+  bottom: 2.6rem;
+  left: 4.6rem;
+  clear: both;
+}
+
+.result-btn {
+  display: inline-block;
+  position: relative;
+  height: 5rem;
+  cursor: pointer;
+}
+
+.result-btn-right {
+  float: right;
+}
+.result-btn-left {
+  float: left;
+}
+
+.result-btn-recycle, .result-btn-share {
+  display: inline-block;
+  width: 3.6rem;
+  height: 3.6rem;
+  line-height: 3.6rem;
+  background-color: white;
+  border-radius: .2rem;
+  box-shadow: 0 .2rem .3rem #4645454f;
+  color: rgb(210, 58, 78);
+  font-size: 1.7rem !important;
+  text-align: center;
+}
+
+.result-btn-info {
+  position: absolute;
+  bottom: 0rem;
+  left: 0rem;
+  width: 3.6rem;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  font-size: .7rem;
+  color: rgba(255, 255, 255, 0.632);
+}
+
 .share {
   position: relative;
   width: 100%;
