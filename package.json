@@ -48,6 +48,8 @@
   "dependencies": {
     "axios": "^0.18.0",
     "bluebird": "^3.5.4",
+    "dom-to-image": "^2.6.0",
+    "file-saver": "^2.0.2",
     "iconv-lite": "^0.4.24",
     "is-chinese": "^1.2.9",
     "vue": "^2.6.10"
